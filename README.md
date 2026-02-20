@@ -11,7 +11,7 @@ It highlights employee demographics, attrition trends, job satisfaction, and wor
 
 ## **Dashboard**
 
-![Screenshot (495)]()
+![Screenshot (495)](https://github.com/Dhivakar1897/DA_Excel-DashBoard_2/blob/main/DashBoard_IMG.png)
 
 ## 📊 Dashboard Highlights
 - **Key Metrics:**
