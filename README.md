@@ -7,7 +7,11 @@ It highlights employee demographics, attrition trends, job satisfaction, and wor
 ## 📂 Repository Contents
 - **HR_Analysis_Dashboard.xlsx** → Dataset and dashboard file  
 - **Dashboard Image** → Visual representation of HR insights  
-- **README.md** → Documentation of the project  
+- **README.md** → Documentation of the project
+
+## **Dashboard**
+
+![Screenshot (495)]()
 
 ## 📊 Dashboard Highlights
 - **Key Metrics:**
