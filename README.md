@@ -5,9 +5,9 @@ This project provides a comprehensive HR analytics dashboard built in Excel.
 It highlights employee demographics, attrition trends, job satisfaction, and workforce distribution to support HR decision-making and strategic planning.
 
 ## 📂 Repository Contents
-- **HR_Analysis_Dashboard.xlsx** → Dataset and dashboard file  
-- **Dashboard Image** → Visual representation of HR insights  
-- **README.md** → Documentation of the project
+- **HR_Analysis_Dashboard.xlsx** → Dataset and dashboard file.  
+- **Dashboard Image** → Visual representation of HR insights.  
+- **README.md** → Documentation of the project.
 
 ## **Dashboard**
 
@@ -62,9 +62,9 @@ It highlights employee demographics, attrition trends, job satisfaction, and wor
 3. Explore the dashboard to analyze HR trends and workforce insights.  
 
 ## 🔧 Tools Used
-- Microsoft Excel  
-- PivotTables & Charts  
-- Data Visualization Techniques  
+- Microsoft Excel.  
+- PivotTables & Charts.  
+- Data Visualization Techniques.  
 
 ## 🙌 Acknowledgments
 Thanks to HR analytics communities and open data sources for inspiration in building this project.
